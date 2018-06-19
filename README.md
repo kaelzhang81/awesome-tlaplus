@@ -6,12 +6,19 @@ TLA+ is a formal specification and verification language to help engineers desig
 
 * Homepage: https://lamport.azurewebsites.net/tla/tla.html
 * Learn TLA+: https://learntla.com/introduction/
+* reddit: https://www.reddit.com/r/tlaplus/
+* google groups: https://groups.google.com/forum/#!forum/tlaplus
+
+## blogs
+
+* http://muratbuffalo.blogspot.com/
 
 ## TLA+ Cases
 
 
 | name | description |  
 | --- | --- | 
+| [AWS and TLA+](http://lamport.azurewebsites.net/tla/amazon.html) | Use of Formal Methods at Amazon Web Services |
 | [Batch Installer (H)](https://medium.com/espark-engineering-blog/formal-methods-in-practice-8f20d72bce4f) | Sending async batches of commands. |
 | [Redux (H)](https://www.hillelwayne.com/post/tla-redux/) | Redux reducers with verifying a temporal property. |
 | [Zero Downtime Deployments (H)](https://www.hillelwayne.com/post/modeling-deployments/) | A simple model of a deploying new code to servers where at least one server is always available to clients, and all available servers show the same code version. |
@@ -22,7 +29,7 @@ TLA+ is a formal specification and verification language to help engineers desig
 | [Thread Pool (T)](http://www.cs.unh.edu/~charpov/programming-tlabuffer.html) | Multiple reader and writer threads sharing a bounded queue, discovering deadlocks. |
 | [Bank Transfer (H)](https://learntla.com/introduction/example/) | Specifying a bank transfer with overdraft protection. |
 | [Finding bugs in systems through formalization](https://andy.hammerhartes.de/finding-bugs-in-systems-through-formalization.html) | Ensuring distributed jobs go from “pending” to “completed”. |
-|  |  |
+| [TLA+ in TIDB](https://github.com/pingcap/tla-plus) | verify the distributed consensus algorithm : Raft & the implementation of distributed transaction. |
 
 ## TLA+ Video Resources
 
@@ -96,8 +103,7 @@ TLA+ is a formal specification and verification language to help engineers desig
 
    A specification of a very simple hardware protocol and of the problem it solves.  This is a nice example of the use of instantiation to describe a refinement mapping, and of the use of constant operator parameters to describe unspecified actions.  There is also a TLA+ proof of correctness that has been checked by the TLAPS proof system.
 
-
-
+enjoy it! :smile:
 
 
 
