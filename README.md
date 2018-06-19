@@ -38,7 +38,7 @@ TLA+ is a formal specification and verification language to help engineers desig
 
 ## TLA+ Example
 
-* allocator
+* [allocator](https://github.com/kaelzhang81/Examples/tree/master/specifications/allocator)
 
    Specification of a resource allocator, written by Stephan Merz.
 
@@ -46,7 +46,7 @@ TLA+ is a formal specification and verification language to help engineers desig
 
    A TLA+ specification of the solution to a nice puzzle.
 
-* chang_roberts
+* [chang_roberts](https://github.com/kaelzhang81/Examples/tree/master/specifications/chang_roberts)
 
    A PlusCal specification of the algorithm by Chang and Roberts (1979) for electing a leader on a unidirectional ring.
 
