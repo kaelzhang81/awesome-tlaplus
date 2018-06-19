@@ -4,7 +4,8 @@ TLA+ is a formal specification and verification language to help engineers desig
 
 ## WebSite
 
-* homepage : https://lamport.azurewebsites.net/tla/tla.html
+* Homepage: https://lamport.azurewebsites.net/tla/tla.html
+* Learn TLA+: https://learntla.com/introduction/
 
 ## TLA+ Cases
 
@@ -25,6 +26,7 @@ TLA+ is a formal specification and verification language to help engineers desig
 
 ## TLA+ Video Resources
 
+* [The TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
 * [Debugging software designs using testable pseudo-code (TLA+)](https://www.youtube.com/watch?v=LAEXHua4MQQ)
 
 ## TLA+ Example
